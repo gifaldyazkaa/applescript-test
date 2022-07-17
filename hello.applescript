@@ -1,1 +1,3 @@
-display dialog "Hello world from Appple!"
+tell application "Finder"
+  display dialog "Hello world from Apple"
+end tell
